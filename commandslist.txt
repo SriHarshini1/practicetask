@@ -87,3 +87,4 @@ crontab -l
 crontab -e
 echo "helloworld"
 echo "stupid"
+cat .bash_history
