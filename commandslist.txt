@@ -139,3 +139,4 @@ exit
 sudo yum update -y
 sudo yum install ssmtp
 sudo yum install msmtp -y
+sudo yum install -y s-nail
