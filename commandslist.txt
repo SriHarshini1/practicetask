@@ -117,3 +117,4 @@ sudo adduser pra
 sudo passwd pra
  sudo su -pra
 sudo su - pra
+exit
