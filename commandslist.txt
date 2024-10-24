@@ -108,3 +108,6 @@ cat b.txt
 scp -i "C:\Users\sriharshini.karnala\Downloads\tempkeyval.pem" "C:\Users\sriharshini.karnala\Downloads\Untitled spreadsheet - Sheet1 (1).csv" ec2-user@ip-172-31-23-103
 scp -i "C:\Users\sriharshini.karnala\Downloads\tempkeyval.pem" "C:\Users\sriharshini.karnala\Downloads\Untitled spreadsheet - Sheet1 (1).csv" ec2-user@ip-172-31-23-103:/home/ec2-user/
 exit
+ls
+cd~
+cd ~
