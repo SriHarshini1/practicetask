@@ -93,3 +93,8 @@ sudo bash
 vi .bashrc
 crotab -e
 crontab -e
+mkdir codes
+cd codes
+touch file1.sh
+touch a.txt
+touch b.txt
