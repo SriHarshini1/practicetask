@@ -118,3 +118,6 @@ sudo passwd pra
  sudo su -pra
 sudo su - pra
 exit
+sudo su - pra
+sudo adduser pra2
+sudo passwd pra2
