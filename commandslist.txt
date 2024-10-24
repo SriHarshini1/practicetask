@@ -136,3 +136,5 @@ vi ssh_config
 vi  sshd_config
 sudo su -
 exit
+sudo yum update -y
+sudo yum install ssmtp
