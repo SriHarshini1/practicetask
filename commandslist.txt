@@ -128,3 +128,4 @@ sudo passwd harshini
 sudo -i -u harshini
 ext
 exit
+pwd
