@@ -115,3 +115,4 @@ vi Untitled spreadsheet - Sheet1 (1).csv
 vi 'Untitled spreadsheet - Sheet1 (1).csv'
 sudo adduser pra
 sudo passwd pra
+ sudo su -pra
