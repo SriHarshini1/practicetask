@@ -89,3 +89,5 @@ echo "helloworld"
 echo "stupid"
 cat .bash_history
 history
+sudo bash 
+vi .bashrc
