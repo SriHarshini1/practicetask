@@ -134,3 +134,5 @@ ld
 ls
 vi ssh_config
 vi  sshd_config
+sudo su -
+exit
