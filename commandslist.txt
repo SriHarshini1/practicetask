@@ -129,3 +129,6 @@ sudo -i -u harshini
 ext
 exit
 pwd
+cd /etc/ssh
+ld
+ls
