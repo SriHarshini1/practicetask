@@ -99,3 +99,6 @@ touch file1.sh
 touch a.txt
 touch b.txt
 ci file1.sh
+vi file1.sh
+vi a.txt
+./file1.sh a.txt b.txt
