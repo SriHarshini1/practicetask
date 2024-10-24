@@ -133,3 +133,4 @@ cd /etc/ssh
 ld
 ls
 vi ssh_config
+vi  sshd_config
