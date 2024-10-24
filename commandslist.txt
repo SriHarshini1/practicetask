@@ -98,3 +98,4 @@ cd codes
 touch file1.sh
 touch a.txt
 touch b.txt
+ci file1.sh
