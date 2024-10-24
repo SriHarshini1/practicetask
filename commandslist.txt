@@ -92,3 +92,4 @@ history
 sudo bash 
 vi .bashrc
 crotab -e
+crontab -e
