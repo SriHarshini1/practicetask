@@ -91,3 +91,4 @@ cat .bash_history
 history
 sudo bash 
 vi .bashrc
+crotab -e
