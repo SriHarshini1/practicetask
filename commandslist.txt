@@ -49,3 +49,37 @@ touch hello
 sudo bash
 crontab -e
 crontab -l
+sudo yum install git
+ssh-keygen -t rsa -b 4096 -C "sriharshini.karnala@bizacuity.com"
+cat  /home/ec2-user/.ssh/id_rsa.pub
+git clone git@github.com:SriHarshini1/practicetask.git
+cd practicetask
+vi p_his.sh
+chmod +x practicetask/p_his.sh
+vi p_his.sh
+cd ..
+chmod +x practicetask/p_his.sh
+sudo bash
+crontab -e
+crontab l
+crontab -l
+./p_his.sh
+cd practicetask
+./p_his.sh
+cd practicetask
+cd p_his.sh
+vi p_his.sh 
+cat ~/.bash_history
+cd ..
+history
+cat ~/.bash_history
+ ~/.bash_history~
+cat ~/.bash_history
+cd ~
+/home/ec2-user
+vi .bashrc
+source .bashrc
+echo "test1"
+echo "test2"
+cat .bashrc
+cat ~/.bash_history
