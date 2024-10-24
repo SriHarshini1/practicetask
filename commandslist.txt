@@ -125,3 +125,6 @@ sudo su - pra2
 exit
 sudo adduser harshini
 sudo passwd harshini
+sudo -i -u harshini
+ext
+exit
