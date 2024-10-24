@@ -83,3 +83,7 @@ echo "test1"
 echo "test2"
 cat .bashrc
 cat ~/.bash_history
+crontab -l
+crontab -e
+echo "helloworld"
+echo "stupid"
